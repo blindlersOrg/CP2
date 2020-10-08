@@ -1,5 +1,7 @@
 inFile = "inputFile.txt"
 
+### I was here
+
 input_text = open(inFile,"r" )
 for line in input_text.readlines():
 	print(line[:-1])
