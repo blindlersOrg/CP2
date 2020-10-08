@@ -2,7 +2,7 @@ path = "006-MyStore"
 from menu_item import MenuItem
 
 
-inventory = []
+inventory = [] 
 menu = {}
 
 item = MenuItem("apples",1.09,150)
