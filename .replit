@@ -1,0 +1,2 @@
+run = "python 006-MyStore/main.py"
+#run = "echo hello world"

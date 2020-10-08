@@ -1,0 +1,4 @@
+apples,1.19,150
+cereal,4.59,30
+almond milk,3.79,50
+bear,7499.99,1

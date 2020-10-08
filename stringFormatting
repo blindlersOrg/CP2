@@ -1,0 +1,18 @@
+name = 'barry'
+age = 197
+school = 'DFHS'
+
+response = 'hey ' + name + "! Happy " + str(age) + " birthday at " + school
+print(response)
+
+response = 'hey',name,"! Happy",str(age),"birthday at", school 
+print('hey',name,"! Happy",str(age),"birthday at", school, sep = ' ' )
+
+response = 'hey {}! Happy {} birthday at {}'.format(name, age,school)
+print(response)
+
+response = 'hey {0}, {2} says: Happy {1} birthday at {2}'.format(name, age,school)
+print(response)
+
+response = f'hey {name}, {school} says: Happy {age} birthday at {school}'
+print(response)
